@@ -34,12 +34,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (July to October 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Protractor
+- A very compact 12 week full time course with 4 week precourse.
+- Learned to program using the agile programming process alongside object orientated programming, test and behaviour driven design.
+- Gained the ability to problem solve, improve and learn new languages quickly and efficiently after having to learn and implement new languages after only a week after using them. 
 
 #### Northumbria University (September 2010 to July 2013)
 
@@ -51,7 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Please see [here](https://github.com/JoshuaTatterton/CV/blob/master/qualifications.md) for a full list of qualifications.
 
-## Experience
+## Work Experience
 
 **Ian Firth Hardware** (April 2014 to July 2015)    
 *Account Assistant*  

@@ -1,24 +1,21 @@
-#### Northumbria University (September 2010 to July 2013)
+## Northumbria University (September 2010 to July 2013)
 
 * Mathematics Bsc Hons (2:2)
 
-#### Ossett School 6th Form and College (September 2003 to July 2010)
+## Ossett School 6th Form and College (September 2003 to July 2010)
 
-A-levels
-----
+#### A-levels
 
 * Mathematics (B)
-* CHemistry (C)
+* Chemistry (C)
 * Applied ICT (C)
 
-AS-levels
-----
+#### AS-levels
 
 * Further Mathematics (B)
 * Physics (E)
 
-GCSEs
-----
+#### GCSEs
 
 * English Language (B)
 * English Literature (B)
@@ -32,9 +29,9 @@ GCSEs
 * Music (C) 
 * Physical Education (C)
 
-Half GCSEs
-----
+#### Half GCSEs
 
 * Citizenship (A)
 * Religious Education (B)
 
+[Click here](https://github.com/JoshuaTatterton/CV) to go back to full CV
