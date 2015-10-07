@@ -1,40 +1,45 @@
 ## Josh Tatterton
 
-I'm a maths grad and newly established programmer, currently looking to use and develop the recently acquired development skill I gained in my time at Makers Academy. 
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a maths grad and newly established programmer, currently looking to use and develop the recently acquired development skill I gained in my time as part of Makers Academy's second Ronin cohort. 
 
 ## Skills
 
-#### Code Developer
+#### Code Writing
 
-I have worked using TDD and BDD while pair programming projects using mainly ruby, Javascript and html for a mixture of front-end and back-end programming. Personally I prefer working on the back-end and making an application functional rather than making it pretty. 
-Please see the following projects 
+I have worked using test driven development while pair programming projects using mainly Ruby and Javascript for a mixture of front-end and back-end programming. In building websites I have gained some skill in HTML, CSS styling and deploying my applications to heroku for hosting.
 
-- The [Final Project](https://github.com/JoshuaTatterton/AgileVenturesWebsiteTwo) of my time at Makers Academy, working with a client  to create a website to showcase completed and charities it problems and solutions. See the app [here](https://fathomless-plateau-2837.herokuapp.com)
-- My [Lab Week Project](https://github.com/JoshuaTatterton/BattleshipsWeb), this solo project to create a website to play an online game of battleships against another person. See the app [here](https://gentle-journey-9691.herokuapp.com)
-#### This Skill
+###### Ruby
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- I have written ruby logic for a variety of different situations.
+- Using sinatra and ruby on rails to build web application frameworks.
+- Became proficient with Rspec and Capybara for test driving ruby code development.
+- I have used postgresql databases to store and request data as needed and used external sources such as Amazon web services for hosting images.
 
-- Experience
-- Achievements
-- Evidence
+- Working on a solo project in sinatra I have created an online game of battleships where you can play against other people online using my own method for maintaining player state with databases and sessions. I also wrote the logic for the game of battleships that gets played. See the website [here](https://gentle-journey-9691.herokuapp.com)
 
-#### Another Skill
+- Working on our final project in the ronin cohort we developed an online showcase using a ruby on rails app for a client, the charity AgileVentures to display how they successfully helped other charities and a place for charities to advertise how they need help. We wrote database logic for storing information and linking information together, such as how project images are stored remotely on Amazon servers to save on size. See the website [here](https://fathomless-plateau-2837.herokuapp.com)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+###### Javascript
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Used generic javascript as well as other javascript languages such as jquery, node and Angular.
+- Again test driven the creation of these aspects using jasmine, karma and protractor.
+
+- Back with the battleships game, I used jquery to control and improve the flow of player games. I used jquery to only allow players to make a move when it was their turn by making API request to my own server to find relevant information. Again the website [here](https://gentle-journey-9691.herokuapp.com) 
+
+- I created a simple to-do application for keeping track of jobs to be done. This was a single page app using angular and used node to host the server. Angular allowed for the dynamic changing of the page without the need to refresh and was test driven with Karma and Protractor. See the app [here](https://ancient-escarpment-2552.herokuapp.com)
+
+#### For the examples above please see the following repositories:
+
+- [online game of battleships](https://github.com/JoshuaTatterton/BattleshipsWeb)
+- [Agile Ventures Website Two](https://github.com/JoshuaTatterton/AgileVenturesWebsiteTwo) 
+- [To do list](https://github.com/JoshuaTatterton/todo_challenge)
 
 ## Education
 
 #### Makers Academy (July to October 2015)
 
 - A very compact 12 week full time course with 4 week precourse.
+- The ronin course aspect allowed for remote pair programming with people across the country and in America.
 - Learned to program using the agile programming process alongside object orientated programming, test and behaviour driven design.
 - Gained the ability to problem solve, improve and learn new languages quickly and efficiently after having to learn and implement new languages after only a week after using them. 
 
