@@ -28,7 +28,7 @@ I have worked using test driven development while pair programming projects usin
 
 - I created a simple to-do application for keeping track of jobs to be done. This was a single page app using angular and used node to host the server. Angular allowed for the dynamic changing of the page without the need to refresh and was test driven with Karma and Protractor. See the app [here](https://ancient-escarpment-2552.herokuapp.com)
 
-#### For the examples above please see the following repositories:
+###### For the examples above please see the following repositories:
 
 - [online game of battleships](https://github.com/JoshuaTatterton/BattleshipsWeb)
 - [Agile Ventures Website Two](https://github.com/JoshuaTatterton/AgileVenturesWebsiteTwo) 
