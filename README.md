@@ -15,18 +15,18 @@ I have worked using test driven development while pair programming projects usin
 - Became proficient with Rspec and Capybara for test driving ruby code development.
 - I have used postgresql databases to store and request data as needed and used external sources such as Amazon web services for hosting images.
 
-- Working on a solo project in sinatra I have created an online game of battleships where you can play against other people online using my own method for maintaining player state with databases and sessions. I also wrote the logic for the game of battleships that gets played. See the website [here](https://gentle-journey-9691.herokuapp.com)
+Working on a solo project in sinatra I have created an online game of battleships where you can play against other people online using my own method for maintaining player state with databases and sessions. I also wrote the logic for the game of battleships that gets played. See the website [here](https://gentle-journey-9691.herokuapp.com)
 
-- Working on our final project in the ronin cohort we developed an online showcase using a ruby on rails app for a client, the charity AgileVentures to display how they successfully helped other charities and a place for charities to advertise how they need help. We wrote database logic for storing information and linking information together, such as how project images are stored remotely on Amazon servers to save on size. See the website [here](https://fathomless-plateau-2837.herokuapp.com)
+Working on our final project in the ronin cohort we developed an online showcase using a ruby on rails app for a client, the charity AgileVentures to display how they successfully helped other charities and a place for charities to advertise how they need help. We wrote database logic for storing information and linking information together, such as how project images are stored remotely on Amazon servers to save on size. See the website [here](https://fathomless-plateau-2837.herokuapp.com)
 
 ###### Javascript
 
 - Used generic javascript as well as other javascript languages such as jquery, node and Angular.
 - Again test driven the creation of these aspects using jasmine, karma and protractor.
 
-- Back with the battleships game, I used jquery to control and improve the flow of player games. I used jquery to only allow players to make a move when it was their turn by making API request to my own server to find relevant information. Again the website [here](https://gentle-journey-9691.herokuapp.com) 
+Back with the battleships game, I used jquery to control and improve the flow of player games. I used jquery to only allow players to make a move when it was their turn by making API request to my own server to find relevant information. Again the website [here](https://gentle-journey-9691.herokuapp.com) 
 
-- I created a simple to-do application for keeping track of jobs to be done. This was a single page app using angular and used node to host the server. Angular allowed for the dynamic changing of the page without the need to refresh and was test driven with Karma and Protractor. See the app [here](https://ancient-escarpment-2552.herokuapp.com)
+I created a simple to-do application for keeping track of jobs to be done. This was a single page app using angular and used node to host the server. Angular allowed for the dynamic changing of the page without the need to refresh and was test driven with Karma and Protractor. See the app [here](https://ancient-escarpment-2552.herokuapp.com)
 
 ###### For the examples above please see the following repositories:
 
