@@ -6,13 +6,13 @@ I'm a maths grad and newly established programmer, currently looking to use and 
 
 #### Code Writing
 
-I have worked using test driven development while pair programming projects using mainly Ruby and Javascript for a mixture of front-end and back-end programming. In building websites I have gained skills in HTML, CSS styling then deploying my applications to Heroku for hosting.
+I have worked using test driven development while pair programming projects with git version control. Mainly using mainly Ruby and Javascript for a mixture of front-end and back-end development. In building websites I have gained skills in HTML, CSS styling then deploying my applications to Heroku for hosting.
 
 ###### Ruby
 
-- I have written ruby logic for a variety of different situations.
-- Using Sinatra and ruby on rails to build web application frameworks.
-- Became proficient with Rspec and Capybara for test driving ruby code development.
+- I have written Ruby logic for a variety of different situations.
+- Using Sinatra and Ruby on Rails to build web application frameworks.
+- Became proficient with Rspec and Capybara for test driving Ruby code development.
 - I have used PostgreSQL databases to store and request data as needed and used external sources such as Amazon Web Services for hosting images.
 
 ###### Javascript
@@ -22,11 +22,11 @@ I have worked using test driven development while pair programming projects usin
 
 ###### Coding Examples
 
-- A solo project I worked on in Sinatra is a website to play [battleships online](https://gentle-journey-9691.herokuapp.com) where you can play against other people online using my own method for maintaining player state with postgres databases and sessions. I also wrote the logic for the game of battleships that gets played. Using jQuery I control the flow of player games, to only allow players to make a fire when it was their turn by find making API request to my own server. [See the code](https://github.com/JoshuaTatterton/BattleshipsWeb)
+- A solo project I worked on in Sinatra is a website to play [battleships online](https://gentle-journey-9691.herokuapp.com), where you can play against other people online. I used postgres for maintaining player state with databases and sessions. I also wrote the Ruby logic for the game of battleships that gets played. Using jQuery I control the flow of player games, only allowing players to fire when it was their turn by making API request to my own server. [See the code](https://github.com/JoshuaTatterton/BattleshipsWeb)
 
-- In our final project in the Ronin cohort we developed an [online showcase and a place for charities to advertise their development needs](https://fathomless-plateau-2837.herokuapp.com) alongside our client, the charity AgileVentures. Using a ruby on rails app we used database logic for storing information and storing images remotely on Amazon servers to save space. See the website [See the code](https://github.com/JoshuaTatterton/AgileVenturesWebsiteTwo) 
+- In our final Ronin cohort project we developed an [online showcase for charities to advertise their development needs](https://fathomless-plateau-2837.herokuapp.com) alongside our client, AgileVentures. We used a Ruby on Rails app and database logic for persisting information while also storing images remotely on Amazon servers to save space. See the website [See the code](https://github.com/JoshuaTatterton/AgileVenturesWebsiteTwo) 
 
-- I created a simple [to do application](https://ancient-escarpment-2552.herokuapp.com) to keeping track of jobs to be done. This was a single page app using angular and node as the server. Angular allowed for the dynamic changing of the page without refreshing the app and was test driven with Karma and Protractor. [See the code](https://github.com/JoshuaTatterton/todo_challenge)
+- I created a simple single page [To Do application](https://ancient-escarpment-2552.herokuapp.com) using angular and node as the server to keeping track of jobs to be done. Angular allowed for the dynamic changing of the page without refreshing the app and was test driven with Karma and Protractor. [See the code](https://github.com/JoshuaTatterton/todo_challenge)
 
 ## Education
 
@@ -34,7 +34,7 @@ I have worked using test driven development while pair programming projects usin
 
 - A very compact 12 week full time course with 4 week precourse.
 - The Ronin course aspect allowed for remote pair programming with people across the country and America.
-- Learned to program using the agile programming process alongside object oriented programming, test and behaviour driven design.
+- Learned to program using the agile programming process alongside object-oriented programming, test and behaviour driven design.
 - Gained the ability to problem solve, improve and learn new languages quickly and efficiently after having to learn and implement new languages after only a week after using them. 
 
 #### Northumbria University (September 2010 to July 2013)
